@@ -78,6 +78,12 @@
   logo_src: community/logo-discord.png
   learn_more_link: https://discord.gg/N7Yshp4
 
+- name: Spectrum
+  description: >
+    Talk to other Flutter developers about anything around the Flutter-verse, share useful resources, and Daydream ;) about useful plugins.
+  logo_src: community/logo-spectrum.png
+  learn_more_link: https://spectrum.chat/flutter
+
 - name: UX Research
   description: >
     Sign up to participate in the UX research plan and have a front row seat into the progression of Flutter.
